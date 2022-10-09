@@ -4,3 +4,4 @@
 /// <reference path="a-asset-item.d.ts" />
 /// <reference path="a-mixin.d.ts" />
 /// <reference path="a-box.d.ts" />
+/// <reference path="a-camera.d.ts" />
