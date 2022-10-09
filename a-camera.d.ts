@@ -53,7 +53,7 @@ declare module JSX {
       'reverse-mouse-drag'?: string;
       /**
        * wasd-controls.enabled
-       * @default |true
+       * @default true
        */
       'wasd-controls-enabled'?: string;
      } | JSX.IntrinsicElements['a-entity'];
