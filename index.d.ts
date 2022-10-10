@@ -28,3 +28,4 @@
 /// <reference path="a-torus.d.ts" />
 /// <reference path="a-triangle.d.ts" />
 /// <reference path="a-video.d.ts" />
+/// <reference path="a-videosphere.d.ts" />
