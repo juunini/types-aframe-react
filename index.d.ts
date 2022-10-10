@@ -11,3 +11,4 @@
 /// <reference path="a-cylinder.d.ts" />
 /// <reference path="a-dodecahedron.d.ts" />
 /// <reference path="a-gltf-model.d.ts" />
+/// <reference path="a-icosahedron.d.ts" />
