@@ -1,6 +1,6 @@
 # types-aframe-react
 
-> **CAUTION**: This library works on only TypeScript project
+> **CAUTION**: This library works only 'TypeScript React' project
 
 ## Installation
 
@@ -23,3 +23,7 @@ Add your `tsconfig.json` under code
   }
 }
 ```
+
+![](https://github.com/juunini/types-aframe-react/blob/main/tag.gif?raw=true)
+
+![](https://github.com/juunini/types-aframe-react/blob/main/prop.gif?raw=true)
