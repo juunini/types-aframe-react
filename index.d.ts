@@ -13,3 +13,4 @@
 /// <reference path="a-gltf-model.d.ts" />
 /// <reference path="a-icosahedron.d.ts" />
 /// <reference path="a-image.d.ts" />
+/// <reference path="a-light.d.ts" />
