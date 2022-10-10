@@ -14,3 +14,4 @@
 /// <reference path="a-icosahedron.d.ts" />
 /// <reference path="a-image.d.ts" />
 /// <reference path="a-light.d.ts" />
+/// <reference path="a-link.d.ts" />
