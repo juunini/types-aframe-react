@@ -21,3 +21,4 @@
 /// <reference path="a-ring.d.ts" />
 /// <reference path="a-sky.d.ts" />
 /// <reference path="a-sound.d.ts" />
+/// <reference path="a-sphere.d.ts" />
