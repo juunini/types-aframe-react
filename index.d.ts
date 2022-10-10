@@ -18,3 +18,4 @@
 /// <reference path="a-obj-model.d.ts" />
 /// <reference path="a-octahedron.d.ts" />
 /// <reference path="a-plane.d.ts" />
+/// <reference path="a-ring.d.ts" />
