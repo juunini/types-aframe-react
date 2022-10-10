@@ -17,3 +17,4 @@
 /// <reference path="a-link.d.ts" />
 /// <reference path="a-obj-model.d.ts" />
 /// <reference path="a-octahedron.d.ts" />
+/// <reference path="a-plane.d.ts" />
