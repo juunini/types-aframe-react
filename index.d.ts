@@ -20,3 +20,4 @@
 /// <reference path="a-plane.d.ts" />
 /// <reference path="a-ring.d.ts" />
 /// <reference path="a-sky.d.ts" />
+/// <reference path="a-sound.d.ts" />
