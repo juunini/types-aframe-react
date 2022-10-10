@@ -26,3 +26,4 @@
 /// <reference path="a-text.d.ts" />
 /// <reference path="a-torus-knot.d.ts" />
 /// <reference path="a-torus.d.ts" />
+/// <reference path="a-triangle.d.ts" />
