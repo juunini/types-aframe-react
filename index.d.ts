@@ -25,3 +25,4 @@
 /// <reference path="a-tetrahedron.d.ts" />
 /// <reference path="a-text.d.ts" />
 /// <reference path="a-torus-knot.d.ts" />
+/// <reference path="a-torus.d.ts" />
