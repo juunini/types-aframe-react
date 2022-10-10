@@ -7,3 +7,4 @@
 /// <reference path="a-camera.d.ts" />
 /// <reference path="a-circle.d.ts" />
 /// <reference path="a-cone.d.ts" />
+/// <reference path="a-curvedimage.d.ts" />
