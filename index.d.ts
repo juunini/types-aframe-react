@@ -10,3 +10,4 @@
 /// <reference path="a-curvedimage.d.ts" />
 /// <reference path="a-cylinder.d.ts" />
 /// <reference path="a-dodecahedron.d.ts" />
+/// <reference path="a-gltf-model.d.ts" />
