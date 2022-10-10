@@ -15,3 +15,4 @@
 /// <reference path="a-image.d.ts" />
 /// <reference path="a-light.d.ts" />
 /// <reference path="a-link.d.ts" />
+/// <reference path="a-obj-model.d.ts" />
