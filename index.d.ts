@@ -9,3 +9,4 @@
 /// <reference path="a-cone.d.ts" />
 /// <reference path="a-curvedimage.d.ts" />
 /// <reference path="a-cylinder.d.ts" />
+/// <reference path="a-dodecahedron.d.ts" />
