@@ -27,7 +27,7 @@ declare module JSX {
      * </a-scene>
      * ```
      */
-    'a-asset-item'?: {
+    'a-asset-item': {
       src?: string;
     } | React.DetailedHTMLProps<React.HTMLAttributes<HTMLElement>, HTMLElement>;
   }

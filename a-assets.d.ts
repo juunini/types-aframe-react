@@ -5,7 +5,7 @@ declare module JSX {
      * 
      * @property { string } timeout - Assets timed out.
      */
-    'a-assets'?: {
+    'a-assets': {
       /** Assets timed out. */
       timeout?: string;
     } | React.DetailedHTMLProps<React.HTMLAttributes<HTMLElement>, HTMLElement>;

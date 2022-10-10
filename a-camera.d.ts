@@ -25,7 +25,7 @@ declare module JSX {
      * |reverse-mouse-drag|look-controls.reverseMouseDrag|false|
      * |wasd-controls-enabled|wasd-controls.enabled|true|
      */
-     'a-camera'?: {
+     'a-camera': {
       /**
        * camera.far
        * @default 10000

@@ -27,6 +27,6 @@ declare module JSX {
      * <a-entity material="color: blue" geometry="primitive: box"></a-entity>
      * ```
      */
-    'a-mixin'?: JSX.IntrinsicElements['a-entity'];
+    'a-mixin': JSX.IntrinsicElements['a-entity'];
   }
 }

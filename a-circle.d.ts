@@ -55,7 +55,7 @@ declare module JSX {
      * |wireframe|material.wireframe|false|
      * |wireframe-linewidth|material.wireframeLinewidth|2|
      */
-     'a-circle'?: {
+     'a-circle': {
         /**
          * material.ambientOcclusionMap
          * @default "None"
