@@ -23,3 +23,4 @@
 /// <reference path="a-sound.d.ts" />
 /// <reference path="a-sphere.d.ts" />
 /// <reference path="a-tetrahedron.d.ts" />
+/// <reference path="a-text.d.ts" />
